@@ -5,8 +5,6 @@ deck = []
 burnedDeck = []
 number = ["A", "2", "3", "4", "5", "6", "7", "8", "9" , "10", "J", "Q", "K"]
 suit = ["Spades", "Hearts", "Diamonds", "Clubs"]
-global card1
-global card2
 
 def shuffle():
 	for i in range (0, 52):
